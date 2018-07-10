@@ -1,0 +1,35 @@
+.container {
+  border: 5px black solid;
+  height:35em;
+  width:20em;
+  border-radius:15px;
+  margin: auto;
+}
+.screen {
+  height: 5em;
+  width: 15em;
+  margin: auto;
+  border: 2px solid black;
+  padding-top: -1em;
+  margin-top: 3em;
+}
+.buttons {
+  height: 20em;
+  width: 15em;
+  margin: auto;
+  border: 2px solid black;
+  margin-top: 3em;
+  align-items: center;
+  border-radius: 10px;
+
+}
+.btn {
+  width: 20%;
+  margin: auto;
+  padding: 1.8em;
+  margin-bottom: 0.55em;
+  margin-top: 0.4em;
+  margin-left: 0.3em;
+  border-radius: 10px;
+  font-weight : 800;
+}
